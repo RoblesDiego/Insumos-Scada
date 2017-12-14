@@ -1,0 +1,10 @@
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\bin\Debug\Scada Insumos.exe.config
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\bin\Debug\Scada Insumos.exe
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\bin\Debug\Scada Insumos.pdb
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\bin\Debug\Scada Insumos.xml
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada_Insumos.Form1.resources
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada_Insumos.Resources.resources
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada Insumos.vbproj.GenerateResource.Cache
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada Insumos.exe
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada Insumos.xml
+E:\Documentos\Programación\2017\Insumos v2\Insumos Scada\Insumos-Scada\Scada Insumos\Scada Insumos\obj\Debug\Scada Insumos.pdb
